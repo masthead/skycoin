@@ -102,3 +102,7 @@ electron/.electron_output
 electron/.standalone_output
 
 .vscode/
+
+src/mesh/examples/integration/integration
+
+.idea/
